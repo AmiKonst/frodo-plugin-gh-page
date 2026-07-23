@@ -130,5 +130,16 @@
       "crop": "https://plugins.bilbomusic.com/img/plugin/crop/audius-troll.jpg",
       "resized": "https://plugins.bilbomusic.com/img/plugin/resized/audius-troll.jpg"
     }
+  },
+  {
+    "code": "gunwest-chat",
+    "name": "Gunwest Brainrot Chat",
+    "category": "visualizer",    
+    "description": "A real-time Firebase-powered chat plugin themed around Russian rapper Gunwest's viral brainrot meme slang (\"пэпэ\", \"шнейне\", \"фа\", \"втфа\", \"кхе-кхе\"). Features unique deterministic Gunwest avatar generation, real-time message streaming via Firebase Firestore, track attachment (cover, title, artist, ID), synth Web Audio SFX, and bottom player media controls.",    
+    "cover": {
+      "original": "https://plugins.bilbomusic.com/img/plugin/original/gunwest-chat.jpg",
+      "crop": "https://plugins.bilbomusic.com/img/plugin/crop/gunwest-chat.jpg",
+      "resized": "https://plugins.bilbomusic.com/img/plugin/resized/gunwest-chat.jpg"
+    }
   }
 ]
